@@ -1,2 +1,2 @@
 # Competitive-Programming
-Ejercicios del contest
+Competitive Programming exercises
